@@ -19,7 +19,7 @@ Web server (Apache/Nginx)
 O'rnatish qadamlari
 
 Repozitoriyani klonlash:
-git clone https://github.com/your-username/gospad.git
+git clone [https://github.com/your-username/gospad.git](https://github.com/GeneralAXTED/GosPad.git)
 cd gospad
 
 
