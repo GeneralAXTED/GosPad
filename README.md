@@ -143,14 +143,12 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a Pull Request with a detailed description of your changes.
 
-Please follow the [Code of Conduct](CODE_OF_CONDUCT.md) and ensure your code adheres to the project's coding standards.
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For questions, suggestions, or issues, please contact:
-- **Email**: info@gospad.uz
+- **Email**: fyvyfyv8@gmail.com
 - **GitHub Issues**: [Create an issue](https://github.com/your-username/gospad/issues)
 
 ## About
