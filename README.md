@@ -110,4 +110,5 @@ voku/anti-xss: XSS hujumlaridan himoya.
 Litsenziya
 Bu loyiha MIT Litsenziyasi ostida tarqatiladi.
 Aloqa
-Savollar yoki takliflar uchun: info@gospad.uz
+Savollar yoki takliflar uchun: axtezaxted@gmail.com
+
