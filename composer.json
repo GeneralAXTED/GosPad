@@ -1,0 +1,15 @@
+{
+    "name": "gospad/gospad",
+    "description": "Oddiy va tezkor qidiruv tizimi",
+    "type": "project",
+    "require": {
+        "voku/anti-xss": "^4.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "GosPad Team",
+            "email": "info@gospad.uz"
+        }
+    ]
+}

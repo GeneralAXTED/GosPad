@@ -1,0 +1,19 @@
+# Maxfiy fayllar
+
+config/db.php
+
+# Composer fayllari
+
+vendor/ composer.lock
+
+# Muvaqqat fayllar
+
+\*.log \*.cache \*.tmp
+
+# IDE sozlamalari
+
+.idea/ .vscode/
+
+# Ma'lumotlar bazasi fayllari
+
+*.sql sql/*.sql
