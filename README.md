@@ -19,7 +19,7 @@ Web server (Apache/Nginx)
 O'rnatish qadamlari
 
 Repozitoriyani klonlash:
-git clone https://github.com/your-username/gospad.git
+git clone [https://github.com/your-username/gospad.git](https://github.com/GeneralAXTED/GosPad.git)
 cd gospad
 
 
@@ -65,22 +65,39 @@ Chiqish: Navbar orqali "Chiqish" tugmasini bosing.
 
 Loyiha tuzilmasi
 gospad/
+
 ├── config/
+
 │   └── db.php            # Ma'lumotlar bazasi sozlamalari
+
 ├── includes/
+
 │   ├── header.php        # Umumiy sarlavha
+
 │   ├── navbar.php        # Navigatsiya paneli
+
 │   └── footer.php        # Umumiy footer
+
 ├── sql/
+
 │   └── database.sql      # Ma'lumotlar bazasi tuzilmasi
+
 ├── vendor/               # Composer bog'liqliklari
+
 ├── .gitignore            # Repozitoriyga qo'shilmaydigan fayllar
+
 ├── composer.json         # Bog'liqliklar
+
 ├── LICENSE               # MIT litsenziyasi
+
 ├── README.md             # Loyiha haqida ma'lumot
+
 ├── admin.php             # Admin paneli
+
 ├── index.php             # Bosh sahifa
+
 └── suggestions.php       # Qidiruv takliflari uchun
+
 
 Ishlatilgan texnologiyalar
 
@@ -93,4 +110,5 @@ voku/anti-xss: XSS hujumlaridan himoya.
 Litsenziya
 Bu loyiha MIT Litsenziyasi ostida tarqatiladi.
 Aloqa
-Savollar yoki takliflar uchun: info@gospad.uz
+Savollar yoki takliflar uchun: axtezaxted@gmail.com
+
